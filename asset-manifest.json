@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react_navbar/static/css/main.d3056bba.chunk.css",
+    "main.js": "/react_navbar/static/js/main.78abbb1f.chunk.js",
+    "main.js.map": "/react_navbar/static/js/main.78abbb1f.chunk.js.map",
+    "runtime-main.js": "/react_navbar/static/js/runtime-main.e5cd4e31.js",
+    "runtime-main.js.map": "/react_navbar/static/js/runtime-main.e5cd4e31.js.map",
+    "static/js/2.bf42b51c.chunk.js": "/react_navbar/static/js/2.bf42b51c.chunk.js",
+    "static/js/2.bf42b51c.chunk.js.map": "/react_navbar/static/js/2.bf42b51c.chunk.js.map",
+    "index.html": "/react_navbar/index.html",
+    "precache-manifest.25bcfb7bd1ba0b267b9b16a3e24d5884.js": "/react_navbar/precache-manifest.25bcfb7bd1ba0b267b9b16a3e24d5884.js",
+    "service-worker.js": "/react_navbar/service-worker.js",
+    "static/css/main.d3056bba.chunk.css.map": "/react_navbar/static/css/main.d3056bba.chunk.css.map",
+    "static/js/2.bf42b51c.chunk.js.LICENSE.txt": "/react_navbar/static/js/2.bf42b51c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e5cd4e31.js",
+    "static/js/2.bf42b51c.chunk.js",
+    "static/css/main.d3056bba.chunk.css",
+    "static/js/main.78abbb1f.chunk.js"
+  ]
+}
